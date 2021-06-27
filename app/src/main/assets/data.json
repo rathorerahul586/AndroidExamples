@@ -1,0 +1,822 @@
+{
+  "success": true,
+  "data": [
+    {
+      "timeline": [
+        {
+          "type": 2,
+          "st": 1611599400,
+          "et": 1611599460
+        },
+        {
+          "type": 2,
+          "st": 1612147260,
+          "et": 1612147320
+        }
+      ],
+      "events": {
+        "9": [
+          {
+            "v": null,
+            "u": null,
+            "st": 1611599460,
+            "et": 1611618419,
+            "t": null,
+            "sl": {
+              "lat": 13.768212,
+              "long": 79.765305,
+              "address": "Gummadigunta, Andhra Pradesh 517642, India"
+            },
+            "el": {
+              "lat": 13.768302,
+              "long": 79.765469,
+              "address": "Gummadigunta, Andhra Pradesh 517642, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611631740,
+            "et": 1611638879,
+            "t": null,
+            "sl": {
+              "lat": 13.7665,
+              "long": 79.763963,
+              "address": "Tatiparthy, Andhra Pradesh, India"
+            },
+            "el": {
+              "lat": 13.766567,
+              "long": 79.763946,
+              "address": "Tatiparthy, Andhra Pradesh, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611658860,
+            "et": 1611667799,
+            "t": null,
+            "sl": {
+              "lat": 13.766578,
+              "long": 79.764063,
+              "address": "Tatiparthy, Andhra Pradesh, India"
+            },
+            "el": {
+              "lat": 13.766137,
+              "long": 79.764511,
+              "address": "Tatiparthy, Andhra Pradesh, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611716220,
+            "et": 1611724499,
+            "t": null,
+            "sl": {
+              "lat": 13.667047,
+              "long": 79.513595,
+              "address": "NH716, Karakambadi Rural, Andhra Pradesh 517520, India"
+            },
+            "el": {
+              "lat": 13.667056,
+              "long": 79.513593,
+              "address": "NH716, Karakambadi Rural, Andhra Pradesh 517520, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611838020,
+            "et": 1611842939,
+            "t": null,
+            "sl": {
+              "lat": 17.000408,
+              "long": 78.193261,
+              "address": "AH 43, Raikal, Farooqnagar, Rangareddy District, Telangana. 120 m from Public Toilet pin-509202 (India)"
+            },
+            "el": {
+              "lat": 17.000415,
+              "long": 78.193283,
+              "address": "NH 44, Raikal, Telangana 509202, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611863460,
+            "et": 1611885239,
+            "t": null,
+            "sl": {
+              "lat": 17.321412,
+              "long": 78.630857,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Ambarpet, Hyderabad, Telangana 501505, India"
+            },
+            "el": {
+              "lat": 17.321409,
+              "long": 78.630836,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Ambarpet, Hyderabad, Telangana 501505, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611885600,
+            "et": 1611885659,
+            "t": null,
+            "sl": {
+              "lat": 17.321398,
+              "long": 78.630785,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Ambarpet, Hyderabad, Telangana 501505, India"
+            },
+            "el": {
+              "lat": 17.321398,
+              "long": 78.630785,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Ambarpet, Hyderabad, Telangana 501505, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611885720,
+            "et": 1611886259,
+            "t": null,
+            "sl": {
+              "lat": 17.321317,
+              "long": 78.630631,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Ambarpet, Hyderabad, Telangana 501505, India"
+            },
+            "el": {
+              "lat": 17.321304,
+              "long": 78.630626,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Ambarpet, Hyderabad, Telangana 501505, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611904260,
+            "et": 1611904319,
+            "t": null,
+            "sl": {
+              "lat": 17.335914,
+              "long": 78.543026,
+              "address": "SURVEY NO.18, SHUTTER NO.4, HASTINAPUR NORTH EXTENSION, BAIRAMALGUDA, BEHIND PINDI PULLA REDDY GARDENS, Hyderabad, Telangana 500079, India"
+            },
+            "el": {
+              "lat": 17.335914,
+              "long": 78.543026,
+              "address": "SURVEY NO.18, SHUTTER NO.4, HASTINAPUR NORTH EXTENSION, BAIRAMALGUDA, BEHIND PINDI PULLA REDDY GARDENS, Hyderabad, Telangana 500079, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611907560,
+            "et": 1611917759,
+            "t": null,
+            "sl": {
+              "lat": 17.335916,
+              "long": 78.54303,
+              "address": "SURVEY NO.18, SHUTTER NO.4, HASTINAPUR NORTH EXTENSION, BAIRAMALGUDA, BEHIND PINDI PULLA REDDY GARDENS, Hyderabad, Telangana 500079, India"
+            },
+            "el": {
+              "lat": 17.335801,
+              "long": 78.542941,
+              "address": "SURVEY NO.18, SHUTTER NO.4, HASTINAPUR NORTH EXTENSION, BAIRAMALGUDA, BEHIND PINDI PULLA REDDY GARDENS, Hyderabad, Telangana 500079, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611921060,
+            "et": 1611934019,
+            "t": null,
+            "sl": {
+              "lat": 17.336182,
+              "long": 78.551156,
+              "address": "Road no:2,santhoshmaatha colony,hasthinapuram,beside,ramdev baba kiranam, Hyderabad, Telangana 500079, India"
+            },
+            "el": {
+              "lat": 17.336182,
+              "long": 78.551156,
+              "address": "Road no:2,santhoshmaatha colony,hasthinapuram,beside,ramdev baba kiranam, Hyderabad, Telangana 500079, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611975060,
+            "et": 1611977879,
+            "t": null,
+            "sl": {
+              "lat": 17.321784,
+              "long": 78.630928,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Amberpet, Hyderabad, Telangana 501505, India"
+            },
+            "el": {
+              "lat": 17.321784,
+              "long": 78.630928,
+              "address": "Vijayawada - Hyderabad Hwy, Pedda Amberpet, Hyderabad, Telangana 501505, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1611980760,
+            "et": 1611987359,
+            "t": null,
+            "sl": {
+              "lat": 17.319011,
+              "long": 78.653016,
+              "address": "O.R.R. Peddamberpet, Pedda Amberpet, Telangana 501505, India"
+            },
+            "el": {
+              "lat": 17.319011,
+              "long": 78.653016,
+              "address": "O.R.R. Peddamberpet, Pedda Amberpet, Telangana 501505, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612007400,
+            "et": 1612007999,
+            "t": null,
+            "sl": {
+              "lat": 16.702448,
+              "long": 78.607488,
+              "address": "Mahabubnagar, Telangana, 509324, India"
+            },
+            "el": {
+              "lat": 16.702448,
+              "long": 78.607488,
+              "address": "Mahabubnagar, Telangana, 509324, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612017960,
+            "et": 1612018979,
+            "t": null,
+            "sl": {
+              "lat": 16.953554,
+              "long": 78.518121,
+              "address": "SH 5, Telangana 509358, India"
+            },
+            "el": {
+              "lat": 16.953554,
+              "long": 78.518121,
+              "address": "SH 5, Telangana 509358, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612019040,
+            "et": 1612019279,
+            "t": null,
+            "sl": {
+              "lat": 16.955058,
+              "long": 78.516142,
+              "address": "SH 5, Telangana 509358, India"
+            },
+            "el": {
+              "lat": 16.955067,
+              "long": 78.516118,
+              "address": "SH 5, Telangana 509358, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612021020,
+            "et": 1612023479,
+            "t": null,
+            "sl": {
+              "lat": 17.074382,
+              "long": 78.473886,
+              "address": "NH 765, Mohammadnagar, Kandukur, Rangareddy District, Telangana. 86 m from Nandamuri Taraka Ramarao Statue pin-501359 (India)"
+            },
+            "el": {
+              "lat": 17.074378,
+              "long": 78.473856,
+              "address": "NH 765, Mohammadnagar, Kandukur, Rangareddy District, Telangana. 86 m from Nandamuri Taraka Ramarao Statue pin-501359 (India)"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612023600,
+            "et": 1612058939,
+            "t": null,
+            "sl": {
+              "lat": 17.074633,
+              "long": 78.473874,
+              "address": "NH 765, Mohammadnagar, Kandukur, Rangareddy District, Telangana. 86 m from Nandamuri Taraka Ramarao Statue pin-501359 (India)"
+            },
+            "el": {
+              "lat": 17.074681,
+              "long": 78.473907,
+              "address": "NH 765, Mohammadnagar, Kandukur, Rangareddy District, Telangana. 99 m from Nandamuri Taraka Ramarao Statue pin-501359 (India)"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612068180,
+            "et": 1612068239,
+            "t": null,
+            "sl": {
+              "lat": 17.241865,
+              "long": 78.93529,
+              "address": "NH 9, Lingoji Guda, Choutuppal, Yadadri District, Telangana. 80 m from Divies pin-508252 (India)"
+            },
+            "el": {
+              "lat": 17.241865,
+              "long": 78.93529,
+              "address": "NH 9, Lingoji Guda, Choutuppal, Yadadri District, Telangana. 80 m from Divies pin-508252 (India)"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612117500,
+            "et": 1612119359,
+            "t": null,
+            "sl": {
+              "lat": 16.498039,
+              "long": 80.671941,
+              "address": "Sri Durga Malleswara Complex, 100 Feet Road, Autonagar, Vijayawada, Andhra Pradesh 520007, India"
+            },
+            "el": {
+              "lat": 16.498005,
+              "long": 80.671891,
+              "address": "Sri Durga Malleswara Complex, 100 Feet Road, Autonagar, Vijayawada, Andhra Pradesh 520007, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612151100,
+            "et": 1612151339,
+            "t": null,
+            "sl": {
+              "lat": 16.83532,
+              "long": 81.390277,
+              "address": "Chebrolu Devulapalli Rd, Chebrolu, Andhra Pradesh 534411, India"
+            },
+            "el": {
+              "lat": 16.835322,
+              "long": 81.390275,
+              "address": "Chebrolu Devulapalli Rd, Chebrolu, Andhra Pradesh 534411, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612164660,
+            "et": 1612164899,
+            "t": null,
+            "sl": {
+              "lat": 16.83737,
+              "long": 81.398832,
+              "address": "West Godavari, Andhra Pradesh, 534411, India"
+            },
+            "el": {
+              "lat": 16.837372,
+              "long": 81.398845,
+              "address": "West Godavari, Andhra Pradesh, 534411, India"
+            },
+            "l": null
+          },
+          {
+            "v": null,
+            "u": null,
+            "st": 1612199100,
+            "et": 1612203959,
+            "t": null,
+            "sl": {
+              "lat": 16.914492,
+              "long": 81.248022,
+              "address": "Thimmapuram, West Godavari District, Andhra Pradesh, 534426, India"
+            },
+            "el": {
+              "lat": 16.914492,
+              "long": 81.248015,
+              "address": "Thimmapuram, West Godavari District, Andhra Pradesh, 534426, India"
+            },
+            "l": null
+          }
+        ],
+        "10": [
+          {
+            "v": 307.56,
+            "u": "L",
+            "st": null,
+            "et": null,
+            "t": 1612119734,
+            "sl": null,
+            "el": null,
+            "l": {
+              "lat": 16.499525,
+              "long": 80.672738,
+              "address": "# 54-9-5, Shop No. 73, BlockNo.13, Near Sai Hotel, 100 feet Road, Auto, Nagar, Vi, Vijayawada, Andhra Pradesh 520007, India"
+            }
+          },
+          {
+            "v": 199.32,
+            "u": "L",
+            "st": null,
+            "et": null,
+            "t": 1611748255,
+            "sl": null,
+            "el": null,
+            "l": {
+              "lat": 14.087772,
+              "long": 79.230541,
+              "address": "NH716, Reddipalle, Andhra Pradesh 516107, India"
+            }
+          }
+        ],
+        "11": []
+      },
+      "sensors": [
+        {
+          "uuid": 930732,
+          "display_name": "Fuel(OBD)",
+          "value_type": "analog",
+          "type": "fuel_obd",
+          "values": [
+            {
+              "t": 1611617400,
+              "v": 180.8
+            },
+            {
+              "t": 1611621000,
+              "v": 194.01
+            },
+            {
+              "t": 1611628200,
+              "v": 182.16
+            },
+            {
+              "t": 1611631800,
+              "v": 187.77
+            },
+            {
+              "t": 1611639000,
+              "v": 182.16
+            },
+            {
+              "t": 1611667800,
+              "v": 179.84
+            },
+            {
+              "t": 1611671400,
+              "v": 192.34
+            },
+            {
+              "t": 1611682200,
+              "v": 175.78
+            },
+            {
+              "t": 1611685800,
+              "v": 170.5
+            },
+            {
+              "t": 1611714600,
+              "v": 167.7
+            },
+            {
+              "t": 1611725400,
+              "v": 156.84
+            },
+            {
+              "t": 1611729000,
+              "v": 148.51
+            },
+            {
+              "t": 1611732600,
+              "v": 144.1
+            },
+            {
+              "t": 1611747000,
+              "v": 252.04
+            },
+            {
+              "t": 1611750600,
+              "v": 259.05
+            },
+            {
+              "t": 1611754200,
+              "v": 251.18
+            },
+            {
+              "t": 1611757800,
+              "v": 245.15
+            },
+            {
+              "t": 1611765000,
+              "v": 240.68
+            },
+            {
+              "t": 1611768600,
+              "v": 236.69
+            },
+            {
+              "t": 1611772200,
+              "v": 227.08
+            },
+            {
+              "t": 1611801000,
+              "v": 219.21
+            },
+            {
+              "t": 1611804600,
+              "v": 210.08
+            },
+            {
+              "t": 1611808200,
+              "v": 199.03
+            },
+            {
+              "t": 1611811800,
+              "v": 188.98
+            },
+            {
+              "t": 1611815400,
+              "v": 181.99
+            },
+            {
+              "t": 1611819000,
+              "v": 169.93
+            },
+            {
+              "t": 1611822600,
+              "v": 153.98
+            },
+            {
+              "t": 1611826200,
+              "v": 145.82
+            },
+            {
+              "t": 1611833400,
+              "v": 145.79
+            },
+            {
+              "t": 1611837000,
+              "v": 146.52
+            },
+            {
+              "t": 1611855000,
+              "v": 139.65
+            },
+            {
+              "t": 1611858600,
+              "v": 138.05
+            },
+            {
+              "t": 1611862200,
+              "v": 125.26
+            },
+            {
+              "t": 1611883800,
+              "v": 118.8
+            },
+            {
+              "t": 1611887400,
+              "v": 118.8
+            },
+            {
+              "t": 1611898200,
+              "v": 118.63
+            },
+            {
+              "t": 1611901800,
+              "v": 124.01
+            },
+            {
+              "t": 1611905400,
+              "v": 122.84
+            },
+            {
+              "t": 1611916200,
+              "v": 114.4
+            },
+            {
+              "t": 1611919800,
+              "v": 113.8
+            },
+            {
+              "t": 1611934200,
+              "v": 110.59
+            },
+            {
+              "t": 1611977400,
+              "v": 109.38
+            },
+            {
+              "t": 1611988200,
+              "v": 106.14
+            },
+            {
+              "t": 1611991800,
+              "v": 97.43
+            },
+            {
+              "t": 1611995400,
+              "v": 89.85
+            },
+            {
+              "t": 1611999000,
+              "v": 101.29
+            },
+            {
+              "t": 1612002600,
+              "v": 93.09
+            },
+            {
+              "t": 1612009800,
+              "v": 82.54
+            },
+            {
+              "t": 1612013400,
+              "v": 80.57
+            },
+            {
+              "t": 1612017000,
+              "v": 76.94
+            },
+            {
+              "t": 1612020600,
+              "v": 65.11
+            },
+            {
+              "t": 1612024200,
+              "v": 63.69
+            },
+            {
+              "t": 1612060200,
+              "v": 76.54
+            },
+            {
+              "t": 1612063800,
+              "v": 63.7
+            },
+            {
+              "t": 1612067400,
+              "v": 101.06
+            },
+            {
+              "t": 1612071000,
+              "v": 92.13
+            },
+            {
+              "t": 1612074600,
+              "v": 84.75
+            },
+            {
+              "t": 1612078200,
+              "v": 86.83
+            },
+            {
+              "t": 1612081800,
+              "v": 89.93
+            },
+            {
+              "t": 1612089000,
+              "v": 79.2
+            },
+            {
+              "t": 1612092600,
+              "v": 79.2
+            },
+            {
+              "t": 1612096200,
+              "v": 80.03
+            },
+            {
+              "t": 1612099800,
+              "v": 67.15
+            },
+            {
+              "t": 1612103400,
+              "v": 59.01
+            },
+            {
+              "t": 1612107000,
+              "v": 58.15
+            },
+            {
+              "t": 1612110600,
+              "v": 58.12
+            },
+            {
+              "t": 1612114200,
+              "v": 50.28
+            },
+            {
+              "t": 1612117800,
+              "v": 49.95
+            },
+            {
+              "t": 1612121400,
+              "v": 328.68
+            },
+            {
+              "t": 1612125000,
+              "v": 329.2
+            },
+            {
+              "t": 1612128600,
+              "v": 329.27
+            },
+            {
+              "t": 1612132200,
+              "v": 330.0
+            },
+            {
+              "t": 1612143000,
+              "v": 330.26
+            },
+            {
+              "t": 1612146600,
+              "v": 330.0
+            },
+            {
+              "t": 1612150200,
+              "v": 329.9
+            },
+            {
+              "t": 1612153800,
+              "v": 330.0
+            },
+            {
+              "t": 1612164600,
+              "v": 327.8
+            },
+            {
+              "t": 1612168200,
+              "v": 323.23
+            },
+            {
+              "t": 1612171800,
+              "v": 321.97
+            },
+            {
+              "t": 1612175400,
+              "v": 322.08
+            },
+            {
+              "t": 1612179000,
+              "v": 322.08
+            },
+            {
+              "t": 1612182600,
+              "v": 320.32
+            },
+            {
+              "t": 1612189800,
+              "v": 319.02
+            },
+            {
+              "t": 1612193400,
+              "v": 312.85
+            },
+            {
+              "t": 1612197000,
+              "v": 310.35
+            },
+            {
+              "t": 1612200600,
+              "v": 310.86
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

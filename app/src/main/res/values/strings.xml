@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP chart example</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">This is notification Desctiption.</string>
+</resources>
